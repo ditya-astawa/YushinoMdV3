@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6285237596750', 'Ditya', true],
+['6285237596750', 'Ditya', true]
 ]
 global.mods = []
 global.prems = []
@@ -57,7 +57,7 @@ global.readMore = readMore
 global.author = 'Created By Ditya'
 global.namebot = 'Dityabotz 𝐌𝐝'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Dityabotz Md'
-global.media = 'https://telegra.ph/file/df447196025b29017e1fa.jpg'
+global.media = 'https://telegra.ph/file/a941565fc10ab03a7c74e.jpg'
 global.watermark = wm
 global.wm2 = 'dityabotz 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -72,7 +72,7 @@ global.wibb = `${wktuwib}`
 global.nameown1= 'Ditya'
 global.nameown2 = 'Ditya'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
+global.Linkgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
