@@ -33,13 +33,13 @@ let rules = `➯ *Tɪᴅᴀᴋ Sᴘᴀᴍ Bᴏᴛ*
 └─┈⟅`
 let nth = `☰⟥⟝⟞⟝❨ *Rᴜʟᴇs Mʏ Bᴏᴛ* ❩⟞⟝⟞⟤☰`
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://wa.me/p/5489299044451325/6281361281833',
+    mediaUrl: 'http://wa.me/6285237596750',
     mediaType: 2, 
     description: sgc,
     title: "Sᴇᴡᴀ Cᴇᴋ Dɪsɪɴɪ Cᴜʏ!!!",
     body: wm,
     thumbnail: fs.readFileSync('./media/qr.png'),
-    sourceUrl: 'https://wa.me/p/5489299044451325/6281361281833',
+    sourceUrl: 'http://wa.me/6285237596750',
      }}
   })
 }
