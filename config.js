@@ -73,7 +73,7 @@ global.nameown1= 'Ditya'
 global.nameown2 = 'Ditya'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://dityaastawa.github.io/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
